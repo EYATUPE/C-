@@ -1,3 +1,4 @@
+#!/usr/bin/env cpp
 #include <iostream>
 #include <string>
 using namespace std;
