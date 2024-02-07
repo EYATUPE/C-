@@ -13,5 +13,5 @@ int main(){
 	int age;
 	float height;
 	float weight;
-
+// Formula
 }
